@@ -1,0 +1,2 @@
+# CinG
+Concurrency in Go
